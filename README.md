@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 # 👋 Hi, I'm Dnyaneshwari Shelke
@@ -6,6 +9,11 @@
 
 <p>
   <b>Learning • Building • Solving • Growing 🚀</b>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shelkednyaneshwari52-hub&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views">
 </p>
 
 <p>
