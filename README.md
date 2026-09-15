@@ -69,6 +69,15 @@
 
 ---
 
+## 🎓 Education
+
+### B.Tech — Artificial Intelligence & Data Science
+
+| 🎓 Degree | 📅 Year | ⭐ CGPA | 📍 Location |
+|---|---|---|---|
+| Bachelor of Technology | Second Year | **9.12 / 10** | Yeola, Maharashtra |
+
+
 ## 🚀 Featured Projects
 
 ### 🎮 Tic Tac Toe
