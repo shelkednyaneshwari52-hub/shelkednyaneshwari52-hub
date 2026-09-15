@@ -125,10 +125,7 @@ I'm always open to connecting, learning, collaborating and exploring new opportu
 
 <br><br>
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dnyaneshwari-shelke-b723b3399/)
-
-📧 **Email:** [shelkednyaneshwari52@gmail.com](mailto:shelkednyaneshwari52@gmail.com)
-
+💼 
 </div>
 
 
