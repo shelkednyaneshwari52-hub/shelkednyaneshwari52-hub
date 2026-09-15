@@ -77,6 +77,7 @@
 |---|---|---|---|
 | Bachelor of Technology | Second Year | **9.12 / 10** | Yeola, Maharashtra |
 
+---
 
 ## 🚀 Featured Projects
 
